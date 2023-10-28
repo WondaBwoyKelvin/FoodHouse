@@ -1,0 +1,81 @@
+
+*{margin:0;box-sizing:border-box}
+body{font-family:'Open Sans',sans-serif}
+a{color:#000}
+a,nav li a{text-decoration:none}
+.order,input{border-radius:8px}
+.large-menu,.mini{box-shadow:5px 10px 10px #888}
+.min-cat,.mini{text-align:center}
+#intro,#mobileapp,.descript-1 button,.price button{background-color:#ff9861}
+.quick-links ul li,.star li{list-style-type:none}
+#top-nav,.app,.category,.descript,.details,.download,.easy-link,.explore,.high,.links,.price{display:flex}
+
+
+#top-nav{justify-content:flex-end;align-items:center;margin-left:0;padding-top:15px}
+nav li a{font-weight:500}
+nav{margin-right:300px}
+nav ul li{list-style:none;font-size:16px;padding-bottom:15px;font-weight:700}
+nav li{margin:15px;display:inline-block}
+.logo{margin-left:80px;margin-right:auto;cursor:pointer;font-size:18px;font-weight:300;padding-bottom:10px}
+.logo span{color:#ff7830;font-size:25px}
+.order{margin-bottom:20px;background-color:#ed7534;padding:7px 15px;margin-right:60px}
+.order a{color:#fff;font-weight:700}#Menu h4,#categories h3,.details,.mini p{font-weight:500}
+.descript{margin:auto 80px}.descript-1{padding-top:80px}
+.descript-1 h1{margin-left:0;font-size:38px}
+.descript-1 h2{font-size:35px}
+.descript-1 button a,.descript-1 span{color:#fff}
+.descript-1 p{padding-top:10px;padding-right:200px;color:#fff}
+.image-container img{width:400px;margin-top:80px;border-radius:18px;margin-bottom:40px}
+input{margin-top:40px;width:400px;padding:20px;border:none}
+.descript-1 button{padding:10px 30px;border:none;border-radius:8px;position:absolute;left:28%;bottom:21%}
+.explore{margin:40px auto 40px 170px}
+#Menu h4{padding-left:45px;padding-top:25px;font-size:25px}
+.arrows{margin-top:100px;width:30px}
+.mini{
+    padding: 45px 20px;
+    background-color:#f9d1bb;
+    margin:20px;
+    border-radius:10px;
+}
+.mini p{padding-top:15px}
+.mini-image img{width:120px;border-radius:50%}
+.large-image img,.large-menu{width:320px;border-radius:10px}
+.high{margin:20px 20px 20px 80px}
+.large-menu{justify-content:center;margin:20px;background-color:#f8d1bb;padding-bottom:20px}
+.large-menu p{padding:5px 15px 5px 20px}
+.next,.star img{width:10px}
+
+.details h5{font-size:15px;margin-left:15px;padding-top:10px}
+.det{font-size:20px}
+.details p{margin-left:82px;padding-top:15px;font-size:12px}
+.star{justify-content:flex-end}
+.star img{margin-top:15px}
+.price{padding-top:10px}
+.price button{padding:2px 20px;border:none;border-radius:15px;color:#fff;margin-left:100px;margin-top:20px;font-size:12px}
+#categories h3,.main-cat h4{margin-left:35px;padding-top:10px}
+.price p{margin-top:20px;font-size:20px;font-weight:600}
+.bottom-logo h1,.main-cat h4{font-size:25px}
+#categories h3{font-size:28px}
+.category{margin-top:40px}
+.mini-1 img{width:250px;border-radius:50%;height:200px}
+.min-cat{margin-left:50px}
+.min-cat h4{color:#ff9861;font-weight:600}
+.min-cat p{color:#b0b0b0}
+.main-cat h4{font-weight:500}
+#mobileapp{padding:80px;margin-top:40px}
+.main-mob{margin-top:150px}
+.main-mob h3{font-size:35px;padding-bottom:30px}
+.app{padding-top:40px}
+.android,.iOS{background-color:#eaeaea;margin:5px;padding:250px 150px;border-radius:10px}
+
+.app img{width:200px}
+.iOS{position:relative;right:35px;top:15px;transform:rotate(10deg)}
+.quick-links{margin:60px}
+.quick-links ul li{margin:10px;font-weight:500}
+.quick-links img{justify-content:center;width:20px;margin-right:4px}
+.quick-links h1,.quick-links h4{margin-left:50px;font-size:16px;padding-bottom:25px}
+.quick-links h5{display:inline}.bottom-logo span{color:#ff9861;font-size:20px}
+hr{margin:auto 70px}.links{margin-top:10px}.payment{margin-left:60px}
+.payment img{width:80px}
+.social{margin-left:600px}
+.social img{width:50px;margin:10px}
